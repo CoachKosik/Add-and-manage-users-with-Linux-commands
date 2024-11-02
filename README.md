@@ -58,6 +58,4 @@ This project focuses on user management in a Linux environment. By leveraging co
 
 ### Summary
 
-You now have practical experience in using basic Linux Bash shell commands to
-
 This lab provided hands-on experience in managing user accounts on a Linux system. By using commands like `useradd`, `usermod`, `userdel`, and `chown`, users can effectively add, modify, and delete user accounts, as well as manage file permissions. These skills are crucial for system administrators and security professionals to maintain system security and control access to resources.
